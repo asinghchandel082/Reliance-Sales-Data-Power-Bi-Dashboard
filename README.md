@@ -10,10 +10,7 @@ This project is designed to provide an in-depth analysis of **Reliance's sales d
 - [Data Analysis and Insights](#data-analysis-and-insights)
 - [Dashboard Features](#dashboard-features)
 - [Forecasting and Predictive Analysis](#forecasting-and-predictive-analysis)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Business Problem
 The project addresses a crucial business need—optimizing sales operations and forecasting future performance. By analyzing sales data, the project uncovers trends, patterns, and key performance indicators (KPIs) that enable decision-makers to identify areas of improvement, plan for the future, and strategize for growth.
